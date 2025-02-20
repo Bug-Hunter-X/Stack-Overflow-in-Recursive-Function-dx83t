@@ -1,0 +1,1 @@
+This repository contains a Python function that demonstrates a classic Stack Overflow error. The function uses recursion without proper handling of the base case, leading to exceeding the maximum recursion depth.  The solution shows how to improve the function using iteration.
